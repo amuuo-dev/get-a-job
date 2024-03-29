@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Page from "./components/Page";
 import BrowseJobs from "./components/BrowseJobs";
+import ViewAll from "./components/ViewAll";
 const App = () => {
   return (
     <>
@@ -12,6 +13,7 @@ const App = () => {
       />
       <Page />
       <BrowseJobs />
+      <ViewAll />
     </>
   );
 };
