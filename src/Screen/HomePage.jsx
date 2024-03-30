@@ -10,7 +10,7 @@ const HomePage = () => {
         subtitle="Find the React job that fits your skills and needs"
       />
       <Page />
-      <BrowseJobs />
+      <BrowseJobs isHome={true} />
       <ViewAll />
     </>
   );
