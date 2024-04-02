@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "1090",
+      "type": "Full-Time",
+      "title": "Test 001",
+      "location": "kenya",
+      "description": "ma watwo one two",
+      "salary": "Under $50K",
+      "company": {
+        "name": "WWE",
+        "description": "tandika",
+        "contactEmail": "wwwe@gmail.com",
+        "contactPhone": "098898"
+      }
     }
   ]
 }
