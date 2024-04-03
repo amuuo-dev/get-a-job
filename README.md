@@ -7,4 +7,4 @@ npm run dev
 npm run server 
 to run the server......
 NB: notice the jobs dont appear on the https://get-a-job-eta.vercel.app/ since im using a localServer (Json server)
-In future i plan on creating the api with express💯
+In future i plan on creating the api with express💯 or You can contribute Fixing the Issue
